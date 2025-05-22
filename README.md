@@ -1,64 +1,80 @@
-🚀 SPA React + Vite
+## Projeto SPA React + Vite
 
-Este projeto é uma Single Page Application (SPA) desenvolvida com React e Vite ⚛️⚡. Ele demonstra a navegação dinâmica entre páginas, sem recarregar o navegador, utilizando o React Router 🔗. O objetivo é showcase de habilidades em desenvolvimento front-end moderno e serve como projeto de portfólio. 💼
+---
 
-⚙️ Funcionalidades
-✅ Navegação entre páginas sem recarregar
-✅ Componentização
-✅ React Router v6
-✅ Layout responsivo
-✅ Deploy pronto para Vercel, Netlify ou GitHub Pages
-🛠️ Tecnologias e Ferramentas
-React ⚛️
-Vite ⚡
-React Router 🔗
-CSS, Tailwind ou CSS Modules 🎨
-Node.js 🟢
-Deploy: Vercel, Netlify ou GitHub Pages 🚀
-🚀 Instalação e Execução
-Clone o repositório:
-Bash
+Este projeto é uma **Single Page Application (SPA)** desenvolvida com **React** e **Vite**. Ele demonstra a **navegação dinâmica** entre páginas, sem recarregar o navegador, utilizando o **React Router**. O objetivo é apresentar habilidades em desenvolvimento front-end moderno e servir como projeto de portfólio.
 
-git clone https://github.com/devouthere/SPA-React-Vite.git
-Acesse a pasta do projeto:
-Bash
+### Funcionalidades
 
-cd SPA-React-Vite
-Instale as dependências:
-Bash
+* **Navegação** entre páginas sem recarregar.
+* **Componentização** da interface.
+* Utilização do **React Router v6**.
+* **Layout responsivo**.
+* Pronto para **deploy** em plataformas como Vercel, Netlify ou GitHub Pages.
 
-npm install
-Rode o projeto localmente:
-Bash
+### Tecnologias e Ferramentas
 
-npm run dev
-Acesse no navegador:
-http://localhost:5173
-🔗 Deploy
-👉 Acesse o projeto online: https://devouthere.github.io/SPA-React-Vite
+* **React** ⚛️
+* **Vite** ⚡
+* **React Router** 🔗
+* **Estilização**: CSS, Tailwind CSS ou CSS Modules
+* **Node.js**
+* **Plataformas de Deploy**: Vercel, Netlify, GitHub Pages 🚀
 
-📁 Estrutura de Pastas
-Bash
+### Instalação e Execução
 
+Para configurar e executar o projeto localmente, siga os passos abaixo:
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone https://github.com/devouthere/SPA-React-Vite.git
+    ```
+2.  **Acesse a pasta do projeto:**
+    ```bash
+    cd SPA-React-Vite
+    ```
+3.  **Instale as dependências:**
+    ```bash
+    npm install
+    ```
+4.  **Inicie o projeto localmente:**
+    ```bash
+    npm run dev
+    ```
+5.  **Acesse no navegador:**
+    ```
+    http://localhost:5173
+    ```
+
+### Deploy Online
+
+Você pode visualizar o projeto online através do GitHub Pages:
+
+* Acesse o projeto: [https://devouthere.github.io/SPA-React-Vite](https://devouthere.github.io/SPA-React-Vite)
+
+### Estrutura de Pastas
+
+A organização do projeto segue uma estrutura padrão para facilitar a navegação e o desenvolvimento:
+
+```bash
 src/
-├── assets/         # Imagens e arquivos estáticos 🖼️
-├── components/     # Componentes reutilizáveis 🧩
-├── pages/          # Páginas da aplicação 📄
-├── routes/         # Configurações de rotas 🛣️
-├── App.jsx         # Componente raiz ⚛️
-├── main.jsx        # Ponto de entrada 🚪
-└── index.css       # Estilo global 💅
-🤝 Contribuição
-Contribuições são super bem-vindas! 😊
+├── assets/         # Imagens e arquivos estáticos
+├── components/     # Componentes reutilizáveis
+├── pages/          # Páginas da aplicação
+├── routes/         # Configurações de rotas
+├── App.jsx         # Componente raiz
+├── main.jsx        # Ponto de entrada
+└── index.css       # Estilo global
+```
 
-Sinta-se à vontade para abrir issues ou enviar pull requests.
+### Contribuição
 
-Acesse o repositório:
+Contribuições são bem-vindas. Sinta-se à vontade para **abrir issues** ou **enviar pull requests** no repositório.
 
-🔗 https://github.com/devouthere/SPA-React-Vite
+### Licença
 
-📜 Licença
-Este projeto está sob a licença MIT.
+Este projeto está sob a **Licença MIT**.
 
-👨‍💻 Autor
-Desenvolvido por Felipe (Devouthere) 🚀
+### Autor
+
+Desenvolvido por Felipe (Devouthere) 👨‍💻
