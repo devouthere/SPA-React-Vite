@@ -12,7 +12,7 @@ Este projeto é uma **Single Page Application (SPA)** desenvolvida com **React**
 * **Layout responsivo**.
 * Pronto para **deploy** em plataformas como Vercel, Netlify ou GitHub Pages.
 
-### Tecnologias e Ferramentas
+### Tecnologias e Ferramentas--
 
 * **React** ⚛️
 * **Vite** ⚡
