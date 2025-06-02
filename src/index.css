@@ -1,0 +1,13 @@
+/* src/index.css */
+
+/* Importa as diretivas base, componentes e utilitários do Tailwind CSS. */
+/* Isso configura o Tailwind para ser usado em todo o projeto. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Define uma fonte global para toda a aplicação. */
+/* 'Inter' é uma fonte moderna e legível. */
+body {
+  font-family: 'Inter', sans-serif;
+}
